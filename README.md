@@ -1,2 +1,2 @@
 # ttgo-esp32-gif
-Description (optional)
+"Display GIF on TTGO ESP32"
